@@ -1,2 +1,2 @@
 # dianita956.github.io
-[My librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez).
+[University of Texas at San Antonio Libraries: librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez).
