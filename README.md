@@ -5,5 +5,6 @@ Energetic and proficient Academic Librarian. Well-trained in conducting in-perso
 
 [Resume]
 
-[Projects] https://github.com/dianita956/DH-Projects/blob/dff52bf2512acbbfbfed49fe0f62984414fcc0d3/corridos/corrido_greg_cortez.ipynb
+[Projects](https://github.com/dianita956/DH-Projects/blob/dff52bf2512acbbfbfed49fe0f62984414fcc0d3/corridos/corrido_greg_cortez.ipynb)
+
 
