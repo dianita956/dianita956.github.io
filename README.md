@@ -53,6 +53,5 @@ El Corrido de Gregorio Cortez 2022-Present
 - UTSA Dreamers Resource Center “Dreamer and Undocumented Student Conversation: The Immigrant Experience from Latin American Countries.” September 27, 2021
 - Coral Texas Library Association D10 “Being the Only.” October 23, 2020
 - The University of Washington iSchool Career Services “Advocating for Yourself in the Workplace.” August 11, 2020
-- The Henry M. Jackson School of International Studies University of Washington, 2018 Talk | “the Caravan.” November 5, 2018
 - The University of Washington iSchool Career Services “Advocating for Yourself in the Workplace.” August 11, 2020
-- The Henry M. Jackson School of International Studies University of Washington, 2018 Talk | “the Caravan.” November 5, 2018
+- The Henry M. Jackson School of International Studies University of Washington, 2018 Talk “the Caravan.” November 5, 2018
