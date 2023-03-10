@@ -26,7 +26,7 @@ Current Position: Digital Humanities/User Engagement Scholarly Resources Librari
   -  Presented on Workers' Rights Information for Seattle City and King County sessions
 
 ## DIGITAL PROJECTS
-[El Corrido de Gregorio Cortez 2022-Present](https://dianita956.github.io/gregoriocortezmap/)
+El Corrido de Gregorio Cortez 2022-coming soon
 
 ## PUBLICATIONS
 - Chin, A., López, D., & Gómez, R. (2021). Reducing Barriers and Opening up Community Dialogue through Serious Play. Borders and Belonging: Critical Examinations of Library Approaches toward Immigrants. Sacramento, CA: Library Juice Press.
