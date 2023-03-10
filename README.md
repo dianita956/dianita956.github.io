@@ -14,8 +14,16 @@ Current Position: Digital Humanities/User Engagement Scholarly Resources Librari
 
 ## EXPERIENCES
 
-- **The University of Texas at San Antonio** 2019-Present
-  - Scholarly Resources Librarian 
+- **The University of Texas at San Antonio**, 2019-Present
+  - *Scholarly Resources Librarian*
+  -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
+  
+- **Casa Latina**, *Seattle, Wa*, 02/2019-09/2019
+  - *Worker Rights Program Intern*
+  -  Interview workers on wage theft
+  -  Research and collected data of wage theft interviews
+  -  Organizaed and stored wage theft cases
+  -  Presented on Workers' Rights Information for Seattle City and King County sessions
 
 ## DIGITAL PROJECTS
 El Corrido de Gregorio Cortez 2022-Present
