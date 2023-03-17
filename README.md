@@ -28,7 +28,9 @@ Currently work in the **Digital Humanities and User Engagement** department as a
   -  Presented on Workers' Rights Information for Seattle City and King County sessions
 
 ## DIGITAL PROJECTS
-Mapping El Corrido de Gregorio Cortez 2022-coming soon
+### Mapping El Corrido de Gregorio Cortez 2022-coming soon
+- [Story Map]()
+- [Notebook]()
 
 ## PUBLICATIONS
 - Chin, A., López, D., & Gómez, R. (2021). Reducing Barriers and Opening up Community Dialogue through Serious Play. Borders and Belonging: Critical Examinations of Library Approaches toward Immigrants. Sacramento, CA: Library Juice Press.
