@@ -6,8 +6,9 @@
 ## PROFILE
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
+Currently work in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio.
+
 ## ACADEMIA
-Current Position: Digital Humanities/User Engagement Scholarly Resources Librarian at the University of Texas at San Antonio.
 - 2019: MLIS at the University of Washington iSchool
 - 2015: B.A. in Political Science and Sociology at Texas A&M University-San Antonio
 - 2012: A.A. in Geography Information Systems at San Antonio College
