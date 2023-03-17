@@ -8,6 +8,8 @@ Energetic and proficient Academic Librarian. Trained in qualitative and quantita
 Currently work in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
 [Click here to visit Librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez)
 
+The University of Washington Student & Alumni Profile [Diane López on empathy and games](https://grad.uw.edu/student-alumni-profiles/diane-lopez-on-empathy-and-games/)
+
 ## ACADEMIA
 - 2019: MLIS at the University of Washington iSchool
 - 2015: B.A. in Political Science and Sociology at Texas A&M University-San Antonio
