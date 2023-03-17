@@ -6,7 +6,8 @@
 ## PROFILE
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
-Currently work in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio.
+Currently work in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
+[Click here to visit Librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez)
 
 ## ACADEMIA
 - 2019: MLIS at the University of Washington iSchool
@@ -15,11 +16,11 @@ Currently work in the **Digital Humanities and User Engagement** department as a
 
 ## EXPERIENCES
 
-### **The University of Texas at San Antonio**, 2019-Present
+### **The University of Texas at San Antonio Libraries**, 2019-Present
   - *Scholarly Resources Librarian*
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
   
-### **Casa Latina**, Seattle, Wa, 02/2019-09/2019
+### [**Casa Latina**](https://casa-latina.org/), Seattle, Wa, 02/2019-09/2019
   - *Worker Rights Program Intern*
   -  Interview workers on wage theft
   -  Research and collected data of wage theft interviews
@@ -34,13 +35,24 @@ Mapping El Corrido de Gregorio Cortez 2022-coming soon
 - Vannini, S., Gomez, R., López, D., Mora, S., Morrison, J. C., Tanner, J., . . . Tafurt, M. M. (2019). Humanitarian organizations information practices: Procedures and privacy concerns for serving the undocumented. The Electronic Journal of Information Systems in Developing Countries. DOI:10.1002/isd2.12109
 
 ## TEACHING EXPERIENCE
-- University of Washington Seattle, Wa 2018-2019 Reader Grader 
+### University of Washington Seattle, Wa 2018-2019 Reader Grader 
   - LIS 570 Research, Assessment, and Design Faculty Dr. Negin Dahya Autumn Quarter 2018
   - IMT 589 Special Topic Info Management: Data Ethics Faculty Dr. Anna Lauren Hoffmann Winter Quarter 2019
   
-- Texas A&M University-San Antonio San Antonio, Tx 2016-2017 Professional Tutor Statistics for Sociology Research Methods for Sociology Guest Lecturer for Regression Analysis in Spring 2017 Faculty Dr. Joseph Simpson
+### Texas A&M University-San Antonio San Antonio, Tx 2016-2017 
+- Professional Tutor Statistics for Sociology Research Methods for Sociology 
+- Guest Lecturer for Regression Analysis, Faculty Dr. Joseph Simpson, Spring 2017
 
-- Alamo Colleges- San Antonio College San Antonio, Tx 2016 Tutor Remedial Math Elementary Statistics
+### Alamo Colleges- San Antonio College San Antonio, Tx 2016 
+- Tutor Remedial Math Elementary Statistics
+
+## Service/Professional Activaties
+### Texas Conference on Digital Libraries
+- Vice-Chair, [TCDL 2023](https://www.tdl.org/tdl-events/tcdl/tcdl-2023/)
+
+### Texas Digital Libraries
+- Member, [GIS Interest Group](https://www.tdl.org/members/groups/tdl-gis-interest-group/) 2022-2023
+- Subcommittee chair, GIS Interest Group Events and Outreach committee 2021-2022
 
 ## CONFERENCES
 - Solis, D., Espinoza, J., Kozlowska, A., Ndumu, A., & Lopez, D. (2021, November 7). Libraries, multilingualism, and power: Resisting English language instruction as performative and symbolic assimilation—English. Reforma National Conference VII, virtual. https://www.reformaconference.org/schedule
