@@ -15,11 +15,11 @@ Currently work in the **Digital Humanities and User Engagement** department as a
 
 ## EXPERIENCES
 
-- **The University of Texas at San Antonio**, 2019-Present
+### **The University of Texas at San Antonio**, 2019-Present
   - *Scholarly Resources Librarian*
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
   
-- **Casa Latina**, *Seattle, Wa*, 02/2019-09/2019
+### **Casa Latina**, Seattle, Wa, 02/2019-09/2019
   - *Worker Rights Program Intern*
   -  Interview workers on wage theft
   -  Research and collected data of wage theft interviews
