@@ -28,6 +28,18 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
   -  Organizaed and stored wage theft cases
   -  Presented on Workers' Rights Information for Seattle City and King County sessions
 
+### **Northwest Vista College**, San Antonio, Tx, 05/2016 to 03/2017
+- *Statistical Specialist*
+- Data Analysis for Project [Math Path](https://www.alamo.edu/nvc/academics/resources/math-paths/)
+
+### **BiblioTech Public Library**, Bexar County, Tx 08/2014 to 08/2015
+- *Outreach and Library Assistant*
+
+### **Apple** Retail, San Antonio, Tx 10/2007 to 08/2014
+- *Family Room Specialist*
+- Provided 1:1 instruction
+- Technical iOS mobile support
+
 ## DIGITAL PROJECTS
 ### Mapping El Corrido de Gregorio Cortez 2022-coming soon
 - [Story Map]()
