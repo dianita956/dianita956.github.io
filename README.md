@@ -26,7 +26,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
   -  Interview workers on wage theft
   -  Research and collected data of wage theft interviews
   -  Organizaed and stored wage theft cases
-  -  Presented on Workers' Rights Information for Seattle City and King County sessions
+  -  Presented on Workers' Rights Information Session on the City of Seattle and King County labor laws and rules.
 
 ### **Northwest Vista College**, San Antonio, Tx, 05/2016 to 03/2017
 - *Statistical Specialist*
