@@ -20,6 +20,12 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ### **The University of Texas at San Antonio Libraries**, 2019-Present
   - *Scholarly Resources Librarian*
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
+  -  Citation Management Workshop
+     - [Zotero](https://libguides.utsa.edu/zotero)
+  -  UTSA Student Engagment member 2020-2023
+      - [The Voting Power Of Generation Z- 10/2020](https://libguides.utsa.edu/votingpowerofgenz)
+      - [Vamos a Votar, Let's Vote: Juntos We Can! 10/2022](https://www.utsa.edu/hispanicheritage/2022/vamos-a-votar.html) 
+      - [Día de los Muertos- Student Nicho box Workshop 10/2022](https://lib.utsa.edu/news/itc-honors-college-library-team-up-for-d%C3%ADa-de-los-muertos-observances)
   
 ### [**Casa Latina**](https://casa-latina.org/), Seattle, Wa, 02/2019-09/2019
   - *Worker Rights Program Intern*
