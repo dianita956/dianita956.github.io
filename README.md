@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">San Antonio, Texas</p>
 
-## PROFILE
+## PROFILE 
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
 Currently works in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
