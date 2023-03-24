@@ -72,7 +72,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ### Alamo Colleges- San Antonio College San Antonio, Tx 2016 
 - Tutor for Remedial Math and Elementary Statistics
 
-## Service/Professional Activities
+## SERVICE & PROFESSIONAL ACTIVITIES 
 ### Texas Conference on Digital Libraries
 - Vice-Chair, [TCDL 2023](https://www.tdl.org/tdl-events/tcdl/tcdl-2023/)
 
