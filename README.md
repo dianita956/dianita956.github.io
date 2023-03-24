@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Diane López </h1>
 
-<p style="text-align: center;">San Antonio, Texas</p>
+<p style="text-align: center;">San Antonio, Texas</p> 
 
 ## PROFILE 
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
@@ -33,7 +33,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
   -  Interview workers on wage theft
   -  Research and collected data from wage theft interviews
   -  Organized Worker's Rights Information-packed 
-  -  Presented on the City of Seattle and King County labor laws and rules for Workers' Rights Information Sessions
+  -  Presented on the City of Seattle and King County labor laws and rules for Workers' Rights Information Sessions 
 
 ### **Northwest Vista College**, San Antonio, Tx, 05/2016 to 03/2017
 - *Statistical Specialist*
