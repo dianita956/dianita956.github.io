@@ -57,16 +57,20 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 - Vannini, S., Gomez, R., López, D., Mora, S., Morrison, J. C., Tanner, J., . . . Tafurt, M. M. (2019). Humanitarian organizations information practices: Procedures and privacy concerns for serving the undocumented. The Electronic Journal of Information Systems in Developing Countries. DOI:10.1002/isd2.12109
 
 ## TEACHING EXPERIENCE
+### Texas Digital Library GIS Interest Group Learning Sprint 08/09/2022
+  - [Python Basic 1](https://colab.research.google.com/drive/1NBHAUT3rvza5Bc3W_PLjQ11yWTROU-QJ?usp=sharing)
+  - [Python Basic 2](https://colab.research.google.com/drive/1rjYe58_LshIUXAC607Pm7e8ypb_y9jZw?usp=sharing)
+
 ### University of Washington Seattle, Wa 2018-2019 Reader Grader 
   - LIS 570 Research, Assessment, and Design Faculty Dr. Negin Dahya Autumn Quarter 2018
   - IMT 589 Special Topic Info Management: Data Ethics Faculty Dr. Anna Lauren Hoffmann Winter Quarter 2019
   
 ### Texas A&M University-San Antonio San Antonio, Tx 2016-2017 
-- Professional Tutor Statistics for Sociology Research Methods for Sociology 
-- Guest Lecturer for Regression Analysis, Faculty Dr. Joseph Simpson, Spring 2017
+- Professional Tutor Statistics for Sociology & Research Methods for Sociology 
+- Guest Lecturer for Regression Analysis for Statiscs for Sociology, Faculty Dr. Joseph Simpson, Spring 2017
 
 ### Alamo Colleges- San Antonio College San Antonio, Tx 2016 
-- Tutor Remedial Math Elementary Statistics
+- Tutor for Remedial Math and Elementary Statistics
 
 ## Service/Professional Activities
 ### Texas Conference on Digital Libraries
