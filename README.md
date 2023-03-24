@@ -22,6 +22,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
   -  Citation Management Workshop
      - [Zotero](https://libguides.utsa.edu/zotero)
+  -  UTSA Libraries Web team member 2023-current
   -  UTSA Student Engagment member 2020-2023
       - [The Voting Power Of Generation Z- 10/2020](https://libguides.utsa.edu/votingpowerofgenz)
       - [Vamos a Votar, Let's Vote: Juntos We Can! 10/2022](https://www.utsa.edu/hispanicheritage/2022/vamos-a-votar.html) 
