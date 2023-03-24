@@ -11,9 +11,9 @@ Currently work in the **Digital Humanities and User Engagement** department as a
 The University of Washington Student & Alumni Profile [Diane López on empathy and games](https://grad.uw.edu/student-alumni-profiles/diane-lopez-on-empathy-and-games/)
 
 ## ACADEMIA
-- 2019: MLIS at the University of Washington iSchool
-- 2015: B.A. in Political Science and Sociology at Texas A&M University-San Antonio
-- 2012: A.A. in Geography Information Systems at San Antonio College
+- #### 2019: MLIS at the University of Washington iSchool
+- #### 2015: B.A. in Political Science and Sociology at Texas A&M University-San Antonio
+- #### 2012: A.A. in Geography Information Systems at San Antonio College
 
 ## EXPERIENCES
 
