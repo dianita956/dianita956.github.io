@@ -5,7 +5,7 @@
 ## PROFILE
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
-Currently work in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
+Currently works in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
 [Click here to visit Librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez)
 
 The University of Washington Student & Alumni Profile [Diane López on empathy and games](https://grad.uw.edu/student-alumni-profiles/diane-lopez-on-empathy-and-games/)
@@ -23,7 +23,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
   -  Citation Management Workshop
      - [Zotero](https://libguides.utsa.edu/zotero)
   -  UTSA Libraries Web team member 2023-current
-  -  UTSA Student Engagment member 2020-2023
+  -  UTSA Student Engagement member 2020-2023
       - [The Voting Power Of Generation Z- 10/2020](https://libguides.utsa.edu/votingpowerofgenz)
       - [Vamos a Votar, Let's Vote: Juntos We Can! 10/2022](https://www.utsa.edu/hispanicheritage/2022/vamos-a-votar.html) 
       - [Día de los Muertos- Student Nicho box Workshop 10/2022](https://lib.utsa.edu/news/itc-honors-college-library-team-up-for-d%C3%ADa-de-los-muertos-observances)
@@ -31,9 +31,9 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ### [**Casa Latina**](https://casa-latina.org/), Seattle, Wa, 02/2019-09/2019
   - *Worker Rights Program Intern*
   -  Interview workers on wage theft
-  -  Research and collected data of wage theft interviews
-  -  Organizaed and stored wage theft cases
-  -  Presented on Workers' Rights Information Session on the City of Seattle and King County labor laws and rules.
+  -  Research and collected data from wage theft interviews
+  -  Organized Worker's Rights Information-packed 
+  -  Presented on the City of Seattle and King County labor laws and rules for Workers' Rights Information Sessions
 
 ### **Northwest Vista College**, San Antonio, Tx, 05/2016 to 03/2017
 - *Statistical Specialist*
@@ -68,7 +68,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ### Alamo Colleges- San Antonio College San Antonio, Tx 2016 
 - Tutor Remedial Math Elementary Statistics
 
-## Service/Professional Activaties
+## Service/Professional Activities
 ### Texas Conference on Digital Libraries
 - Vice-Chair, [TCDL 2023](https://www.tdl.org/tdl-events/tcdl/tcdl-2023/)
 
