@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Diane López M </h1>
+<h1 style="text-align: center;"> Diane López </h1>
 
 <p style="text-align: center;">San Antonio, Texas</p>
 
