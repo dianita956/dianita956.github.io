@@ -2,6 +2,8 @@
 
 <p style="text-align: center;">San Antonio, Texas</p> 
 
+[Dianita956 Github profile](https://github.com/dianita956)</p>
+
 ## PROFILE 
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
@@ -50,7 +52,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ## DIGITAL PROJECTS
 ### Mapping El Corrido de Gregorio Cortez 2022-coming soon
 - [Story Map](https://storymaps.arcgis.com/stories/c959342196824227b5edd9e867c3148c)
-- [Notebook](coming soon)
+- [Notebook](https://dianita956.github.io/gregoriocortezmap/)
 
 ## PUBLICATIONS
 - Chin, A., López, D., & Gómez, R. (2021). Reducing Barriers and Opening up Community Dialogue through Serious Play. Borders and Belonging: Critical Examinations of Library Approaches toward Immigrants. Sacramento, CA: Library Juice Press.
