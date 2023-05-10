@@ -6,7 +6,7 @@
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
 
 Currently works in the **Digital Humanities and User Engagement** department as a *Scholarly Resources Librarian* at the University of Texas at San Antonio. 
-[Click here to visit Librarian profile](https://lib.utsa.edu/about/staff-directory/diane-lopez)
+
 
 The University of Washington Student & Alumni Profile [Diane López on empathy and games](https://grad.uw.edu/student-alumni-profiles/diane-lopez-on-empathy-and-games/)
 
@@ -18,7 +18,7 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
 ## EXPERIENCES
 
 ### **The University of Texas at San Antonio Libraries**, 2019-Present
-  - *Scholarly Resources Librarian*
+  *Scholarly Resources Librarian*
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
   -  Citation Management Workshop
      - [Zotero](https://libguides.utsa.edu/zotero)
@@ -29,28 +29,28 @@ The University of Washington Student & Alumni Profile [Diane López on empathy a
       - [Día de los Muertos- Student Nicho box Workshop 10/2022](https://lib.utsa.edu/news/itc-honors-college-library-team-up-for-d%C3%ADa-de-los-muertos-observances)
   
 ### [**Casa Latina**](https://casa-latina.org/), Seattle, Wa, 02/2019-09/2019
-  - *Worker Rights Program Intern*
+  *Worker Rights Program Intern*
   -  Interview workers on wage theft
   -  Research and collected data from wage theft interviews
   -  Organized Worker's Rights Information-packed 
   -  Presented on the City of Seattle and King County labor laws and rules for Workers' Rights Information Sessions 
 
 ### **Northwest Vista College**, San Antonio, Tx, 05/2016 to 03/2017
-- *Statistical Specialist*
+*Statistical Specialist*
 - Data Analysis for Project [Math Path](https://www.alamo.edu/nvc/academics/resources/math-paths/)
 
 ### **BiblioTech Public Library**, Bexar County, Tx 08/2014 to 08/2015
-- *Outreach and Library Assistant*
+*Outreach and Library Assistant*
 
 ### **Apple** Retail, San Antonio, Tx 10/2007 to 08/2014
-- *Family Room Specialist*
+*Family Room Specialist*
 - Provided 1:1 instruction
 - Technical iOS mobile support
 
 ## DIGITAL PROJECTS
 ### Mapping El Corrido de Gregorio Cortez 2022-coming soon
-- [Story Map]()
-- [Notebook]()
+- [Story Map](https://storymaps.arcgis.com/stories/c959342196824227b5edd9e867c3148c)
+- [Notebook](coming soon)
 
 ## PUBLICATIONS
 - Chin, A., López, D., & Gómez, R. (2021). Reducing Barriers and Opening up Community Dialogue through Serious Play. Borders and Belonging: Critical Examinations of Library Approaches toward Immigrants. Sacramento, CA: Library Juice Press.
