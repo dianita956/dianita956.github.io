@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">San Antonio, Texas</p> 
 
-[Dianita956 Github profile](https://github.com/dianita956)</p>
+[Dianita956 Github profile](https://github.com/dianita956)
 
 ## PROFILE 
 Energetic and proficient Academic Librarian. Trained in qualitative and quantitative methodologies, self-taught python programming in text analysis, GIS mapping, and web scraping to provide valuable context. Seven years of customer service and technical support experience.  
