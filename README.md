@@ -119,12 +119,14 @@ Experienced in customer service and technical support for over seven years, I ha
 - The Henry M. Jackson School of International Studies University of Washington, 2018 Talk “the Caravan.” November 5, 2018
 
 ## SERVICE AND PROFESSIONAL ACTIVITIES
+
 ### Texas Conference on Digital Libraries
 - Texas Conference on Digital Libraries Planning Committee 
    - Chair, TCDL 2024
    - Vice-Chair, TCDL 2023 
    - Subcommittee chair, TCDL 2023 POCO LOCO Poster Session 
-   - Subcommittee chair, TCDL 2022 Swag and Network Committee 
+   - Subcommittee chair, TCDL 2022 Swag and Network Committee
+     
 ### Texas Digital Libraries 
   - Member, GIS Interest Group, 2020-Present 
   - Instructor for Texas Digital Library GIS IG Learning Sprint August 2022 
