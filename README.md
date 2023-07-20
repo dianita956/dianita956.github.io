@@ -71,7 +71,7 @@ Experienced in customer service and technical support for over seven years, I ha
 -	Utilized Camtasia and iMovie to create instructional videos.
 
 ### **Apple** Retail, San Antonio, Tx 10/2007 to 08/2014
-*Family Room Specialist*
+*Customer Service and Technical Support Specialist*
 - Provided exceptional technical support and customer service for iOS and macOS software and devices within Apple retail environment.
 -	Helped customers with software issues on Apple's iOS and macOS. Diagnosed problems and provided effective guidance for customer satisfaction.
 -	Assisted customers with setting up and configuring their iOS and macOS devices, including creating accounts, updating software, and customizing settings for optimal user experience. Communicated technical information in a clear and friendly manner.
