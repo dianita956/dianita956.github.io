@@ -17,18 +17,19 @@ Experienced in customer service and technical support for over seven years, I ha
 ### **The University of Texas at San Antonio Libraries**, 2019-Present
   *Scholarly Resources Librarian*
   -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
-  -  Citation Management Workshop
-     - [Zotero](https://libguides.utsa.edu/zotero)
-  -  UTSA Libraries Web team member 2023-current
-  -  UTSA Student Engagement member 2020-2023
-      - [The Voting Power Of Generation Z- 10/2020](https://libguides.utsa.edu/votingpowerofgenz)
-      - [Vamos a Votar, Let's Vote: Juntos We Can! 10/2022](https://www.utsa.edu/hispanicheritage/2022/vamos-a-votar.html) 
-      - [Día de los Muertos- Student Nicho box Workshop 10/2022](https://lib.utsa.edu/news/itc-honors-college-library-team-up-for-d%C3%ADa-de-los-muertos-observances)
-- Provided guidance to Master Level Public Administration students on the significance of GIS tools, such as Policy Map. 
+  - Provided guidance to Master Level Public Administration students on the significance of GIS tools, such as Policy Map. 
 - Created a learning tool for the "Becoming Texas" podcast on "El Corrido de Gregorio Cortez." 
 - Utilized text analysis tools such as SpaCy3 to extract Name Entity Recognition for places and locations. 
 - For my project, I utilized Python 3.9, Pandas, GeoPandas, GeoPy, MapBox, Quarto, ArcGIS Story Map, and VS Code (Jupyter Notebook). 
 - Currently working on expanding the Story Map of "El Corrido de Gregorio Cortez" to function as a component of the digital companion for the History of Sound book.
+-  Citation Management Workshop
+   - [Zotero](https://libguides.utsa.edu/zotero)
+-  UTSA Libraries Web team member 2023-current
+-  UTSA Student Engagement member 2020-2023
+    - [The Voting Power Of Generation Z- 10/2020](https://libguides.utsa.edu/votingpowerofgenz)
+    - [Vamos a Votar, Let's Vote: Juntos We Can! 10/2022](https://www.utsa.edu/hispanicheritage/2022/vamos-a-votar.html) 
+    - [Día de los Muertos- Student Nicho box Workshop 10/2022](https://lib.utsa.edu/news/itc-honors-college-library-team-up-for-d%C3%ADa-de-los-muertos-observances)
+ 
 
   
 ### [**Casa Latina**](https://casa-latina.org/), Seattle, Wa, 2019
