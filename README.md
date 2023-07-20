@@ -111,6 +111,7 @@ Experienced in customer service and technical support for over seven years, I ha
 
 ### Alamo Colleges- San Antonio College San Antonio, Tx 2016 
 - Tutor for Remedial Math and Elementary Statistics
+  
 ## INVITED TALKS
 - UTSA Dreamers Resource Center “Dreamer and Undocumented Student Conversation: The Immigrant Experience from Latin American Countries.” September 27, 2021
 - Coral Texas Library Association D10 “Being the Only.” October 23, 2020
