@@ -7,7 +7,7 @@
 ## EDUCATION 
 #### 2019: Master's in Library and Information Science from the University of Washington iSchool
 #### 2015: Bachelor's in Political Science and Sociology from Texas A&M University-San Antonio
-#### 2012: Associate in Geography Information Systems from San Antonio College
+#### 2012: Associate's in Geography Information Systems from San Antonio College
 
 ## EXPERIENCES
 
