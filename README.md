@@ -4,9 +4,6 @@
 
 [Dianita956 Github profile](https://github.com/dianita956)
 
-## PROFILE 
-Experienced in customer service and technical support for over seven years, I have developed a strong foundation in delivering exceptional assistance. With a solid background in qualitative and quantitative research methodologies gained through over five years of conducting interviews, analyzing data, and extracting valuable insights, I bring expertise in research-driven problem-solving. Additionally, I possess intermediate-level proficiency in Python programming, specializing in text analysis, GIS mapping, and web scraping. As an Academic Librarian, I apply these skills to provide superior support and contribute to the success of academic endeavors.
-
 ## EDUCATION 
 #### 2019: Master's in Library and Information Science at the University of Washington iSchool
 #### 2015: Bachelor's in Political Science and Sociology at Texas A&M University-San Antonio
