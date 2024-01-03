@@ -5,9 +5,9 @@
 [Dianita956 Github profile](https://github.com/dianita956)
 
 ## EDUCATION 
-#### 2019: Master's in Library and Information Science at the University of Washington iSchool
-#### 2015: Bachelor's in Political Science and Sociology at Texas A&M University-San Antonio
-#### 2012: Associate of Arts in Geography Information Systems at San Antonio College
+#### 2019: Master's in Library and Information Science from the University of Washington iSchool
+#### 2015: Bachelor's in Political Science and Sociology from Texas A&M University-San Antonio
+#### 2012: Associate of Arts in Geography Information Systems from San Antonio College
 
 ## EXPERIENCES
 
