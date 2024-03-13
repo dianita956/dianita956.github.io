@@ -4,7 +4,7 @@
 
 [Dianita956 Github profile](https://github.com/dianita956)
 
-Here's some information about me: I have experience in customer service support, research, and intermediate programming. My interests include Indigenous Knowledge Systems, GIS, and digital humanities. I've researched various topics, such as information science, sociology, and political science. I've studied the digital divide, mobile communication apps and English language learners, and human migration and serious games/applied games.
+Here's some information about me: I have experience in customer service support, research, and intermediate programming. My interests include Indigenous Knowledge Systems, GIS, NLP, and digital humanities. I've researched various topics, such as information science, sociology, and political science. I've studied the digital divide, mobile communication apps and English language learners, human migration, and serious games/applied games.
 
 ## EDUCATION 
 #### 2019: Master's in Library and Information Science from the University of Washington iSchool
