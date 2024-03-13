@@ -4,6 +4,8 @@
 
 [Dianita956 Github profile](https://github.com/dianita956)
 
+Here's some information about me: I have experience in customer service support, research, and intermediate programming. My interests include Indigenous Knowledge Systems, GIS, and digital humanities. I've researched various topics, such as information science, sociology, and political science. I've studied the digital divide, mobile communication apps and English language learners, and human migration and serious games/applied games.
+
 ## EDUCATION 
 #### 2019: Master's in Library and Information Science from the University of Washington iSchool
 #### 2015: Bachelor's in Political Science and Sociology from Texas A&M University-San Antonio
@@ -12,9 +14,18 @@
 ## EXPERIENCES
 
 ### **The University of Texas at San Antonio Libraries**, 2019-Present
-  *Scholarly Resources Librarian*
-  -  Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
-  - Provided guidance to Master Level Public Administration students on the significance of GIS tools, such as Policy Map. 
+*Information Specialist* 
+- Subject specialist librarian for the College of Engineering. 
+- Supporting and building digital objects and projects.
+- Current working project for UTSA Libraries Community-Engaged Digital Scholarship Hub:
+  - *The Sound of San Anto,* music history, featuring three digital products:
+     1. Geo-location platform showcasing 2,000+ concerts in San Antonio from the '70s to the early 2000s.
+     2. Digital storytelling of iconic local music venues.
+     3. Text analysis of Mexican corrido, 'The Ballad of Gregorio Cortez,' integrating narrative across maps and newspaper sources.
+    
+*Scholarly Resources Librarian*
+- Subject Specialist Librarian: Architecture and Planning, Demography, Construction Science, Public Administration, Social Work
+- Provided guidance to Master Level Public Administration students on the significance of GIS tools, such as Policy Map. 
 - Created a learning tool for the "Becoming Texas" podcast on "El Corrido de Gregorio Cortez." 
 - Utilized text analysis tools such as SpaCy3 to extract Name Entity Recognition for places and locations. 
 - For my project, I utilized Python 3.9, Pandas, GeoPandas, GeoPy, MapBox, Quarto, ArcGIS Story Map, and VS Code (Jupyter Notebook). 
