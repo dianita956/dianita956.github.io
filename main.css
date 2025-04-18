@@ -1,0 +1,60 @@
+#card-container {
+    width: 80%;
+    max-width: 500px;
+    margin: 20px auto;
+    perspective: 1000px;
+    text-align: center;
+  }
+
+.edu-card {
+    background: #fff;
+    border: 2px solid #007BFF;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 4px 8px 20px rgba(0,0,0,0.15);
+    font-family: sans-serif;
+    font-size:16px;
+    transition: transform 0.5s ease;
+    min-height: 150px;
+}
+
+.we-card {
+  background: #fff;
+  border: 2px solid #007BFF;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 4px 8px 20px rgba(0,0,0,0.15);
+  font-family: sans-serif;
+  font-size: 16px;
+  transition: transform 0.5s ease;
+  min-height: 150px;
+}
+
+.dp-card {
+    background: #fff;
+    border: 2px solid #007BFF;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 4px 8px 20px rgba(0,0,0,0.15);
+    font-family: sans-serif;
+    font-size: 16px;
+    transition: transform 0.5s ease;
+    min-height: 150px;
+  }
+  
+.controls {
+  margin-top: 10px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 16px;
+  border: none;
+  background: #007BFF;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:disabled {
+  background: #aaa;
+}
